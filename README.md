@@ -21,6 +21,8 @@ The hashing algorithm to use. Options are: SHA1, SHA256, SHA384, SHA512, or MD5
 
 If no value is specified, or if the parameter is omitted, the default value is SHA256
 
+---
+
 **Examples**
 
 ```powershell
